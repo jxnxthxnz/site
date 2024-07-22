@@ -1,8 +1,8 @@
 title: Jonathan Zhang
 email: your-email@example.com
 description: "Matt Ambrogi's personal site"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/site" # the subpath of your site, e.g. /blog
+url: "https://jxnxthxnz.github.io/" # the base hostname & protocol for your site
 theme: minima
 sass:
   sass_dir: assets/css
