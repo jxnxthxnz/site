@@ -1,0 +1,22 @@
+/* assets/css/main.scss */
+
+body {
+  background-color: #F5F5F5;
+}
+
+.home-content {
+  margin-top: 20px;
+}
+
+.custom-navbar {
+  background-color: #F5F5F5 !important;
+  /* border-bottom: 1px solid #ddd; */
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #333;
+}
+
+.navbar-light .navbar-brand {
+  color: #333;
+}
