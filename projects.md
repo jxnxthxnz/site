@@ -6,4 +6,7 @@ permalink: /projects/
 
 # Projects
 
-This is the Projects page. Here you can find all my projects.
+<div class="project-categories">
+  <a href="https://github.com/jxnxthxnz/site" target="_blank" class="project-category">Personal Website</a>
+  <a href="https://github.com/cse110-sp24-group35/journal" target="_blank" class="project-category">Journaling App</a>
+</div>

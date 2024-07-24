@@ -1,0 +1,26 @@
+/* assets/css/projects.css */
+
+.project-categories {
+    margin-top: 20px;
+  }
+  
+.project-category {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    /* border-radius: 12px; */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #F8F9F5;
+    color: #000;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+  
+.project-category:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}

@@ -1,7 +1,6 @@
-/* assets/css/main.scss */
-
+/* assets/css/main.css */
 body {
-  background-color: #F5F5F5;
+  background-color: #F8F9F5;
 }
 
 .home-content {
@@ -9,14 +8,105 @@ body {
 }
 
 .custom-navbar {
-  background-color: #F5F5F5 !important;
-  /* border-bottom: 1px solid #ddd; */
+  background-color: #F8F9F5 !important;
 }
 
-.navbar-light .navbar-nav .nav-link {
-  color: #333;
-}
-
+.navbar-light .navbar-nav .nav-link,
 .navbar-light .navbar-brand {
   color: #333;
+}
+
+/* New styles for API blocks */
+.api-blocks {
+  margin-top: 40px;
+}
+
+.api-block {
+  background-color: #F8F9F5;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 20px;
+  height: 100%;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.api-block:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.api-category, .api-stats span {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-bottom: 10px;
+}
+
+.api-category:empty {
+  display: none;
+}
+
+.api-block:nth-child(3n+1) .api-category, .api-stats span {
+  background-color: #EDEFE5;
+  color: #000;
+}
+
+.api-icon {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  float: left;
+}
+
+.api-content h3 {
+  font-size: 1.2em;
+  margin-bottom: 25px; 
+}
+.api-content h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.api-content h3 a:hover {
+  text-decoration: underline; /* This adds an underline on hover */
+}
+
+.api-meta {
+  font-size: 0.8em;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.api-meta span {
+  margin-right: 10px;
+}
+
+.api-stats {
+  font-size: 0.9em;
+}
+
+.api-stats span:last-child {
+  margin-right: 0;
+}
+
+.api-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 10px;
+}
+
+.api-list li {
+  margin-bottom: 5px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.api-list li:before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #666;
 }
