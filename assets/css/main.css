@@ -1,7 +1,7 @@
 /* assets/css/main.scss */
 
 body {
-  background-color: #F5F5F5;
+  background-color: #F8F9F5;
 }
 
 .home-content {
@@ -9,7 +9,7 @@ body {
 }
 
 .custom-navbar {
-  background-color: #F5F5F5 !important;
+  background-color: #F8F9F5 !important;
   /* border-bottom: 1px solid #ddd; */
 }
 
@@ -20,3 +20,72 @@ body {
 .navbar-light .navbar-brand {
   color: #333;
 }
+
+/* assets/css/main.css */
+
+/* .card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.card-header {
+  background-color: transparent;
+  border-bottom: none;
+  padding: 0.75rem 1rem;
+}
+
+.card-header .badge {
+  font-size: 0.75rem;
+}
+
+.card-header .btn {
+  border: none;
+  padding: 0;
+  background: none;
+}
+
+.card-body {
+  flex: 1; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+  padding: 1rem;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+}
+
+.card-text {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  align-self: flex-start; 
+  margin-top: auto; 
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.card-footer {
+  background-color: transparent;
+  border-top: none;
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  color: #6c757d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} */
+
