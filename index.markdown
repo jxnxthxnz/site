@@ -8,7 +8,7 @@ title: Home
   <p>I am a UC San Diego undergraduate, pursuing a Computer Science major and a minor in Technology, Innovation, and Supply Chain.</p>
   <p>I'm interested in building valuable products that are elegant in both design and functionality.</p>
 </div>
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-6 mb-3">
     <div class="card">
       <div class="card-header d-flex justify-content-between align-items-center">
@@ -51,4 +51,4 @@ title: Home
       </div>
     </div>
   </div>
-</div>
+</div> -->
