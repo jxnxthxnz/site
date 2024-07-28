@@ -2,53 +2,134 @@
 layout: default
 title: Home
 ---
-
 <div class="home-content">
-  <h2 class="mb-3">Hello, I'm Jonathan.</h2>
-  <p>I am a UC San Diego undergraduate, pursuing a Computer Science major and a minor in Technology, Innovation, and Supply Chain.</p>
-  <p>I'm interested in building valuable products that are elegant in both design and functionality.</p>
+    <h2 class="mb-3">Hello, I'm Jonathan.</h2>
+    <p>I am a UC San Diego undergraduate, pursuing a Computer Science major and a minor in Technology, Innovation, and Supply Chain.</p>
+    <p>I'm interested in building valuable products that are elegant in both design and functionality.</p>
 </div>
-<!-- <div class="row">
-  <div class="col-md-6 mb-3">
-    <div class="card">
-      <div class="card-header d-flex justify-content-between align-items-center">
-        <span class="badge bg-primary">Data</span>
-        <button class="btn btn-outline-secondary btn-sm">
-          <svg width="20" height="20" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
-            <path d="M8 2.748-.717-5.243C5.6-1.345 8 1.287 8 1.287S10.4-1.345 15.717-.243C12.286 2.385 8 6.036 8 6.036S3.714 2.385.283-.243C5.6-1.345 8 2.748 8 2.748zM8 1.287S5.6-1.345.283-.243C3.714 2.385 8 6.036 8 6.036S12.286 2.385 15.717-.243C10.4-1.345 8 1.287 8 1.287z"/>
-          </svg>
-        </button>
-      </div>
-      <div class="card-body d-flex flex-column">
-        <h5 class="card-title">Twitter</h5>
-        <p class="card-text">Introducing X API, a robust Twitter API designed to unlock valuable Twitter data...</p>
-        <a href="#" class="btn btn-primary mt-auto">Read More</a>
-      </div>
-      <div class="card-footer d-flex justify-content-between align-items-center">
-        <span>By Omar M'Hai...</span>
-        <span>Updated 1 month ago</span>
-      </div>
+
+<div class="api-blocks">
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="api-block">
+                <div class="api-category">SWE Intern</div>
+                <div class="api-content">
+                    <img src="assets/images/affinipay.png" alt="Affinipay" class="api-icon">
+                    <h3><a href="https://www.affinipay.com">AffiniPay</a></h3>
+                    <div class="api-meta">
+                        <span>San Diego, CA</span>
+                        <span>06/2024 - Present</span>
+                    </div>
+                    <div class="api-stats">
+                        <span>Ruby on Rails</span>
+                        <span>React</span>
+                        <span>TypeScript</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="api-block">
+                <div class="api-category">SWE Intern </div>
+                <div class="api-content">
+                    <img src="assets/images/vertalo.png" alt="LinkedIn" class="api-icon">
+                    <h3><a href="https://www.vertalo.com">Vertalo</a></h3>
+                    <!-- <ul>
+                      <li>Designed and built a backend system for a new proprietary testing tool using Postgres, SQL, Flask, and RESTful APIs</li>
+                      <li>Developed a relational database schema and wrote optimized SQL queries to retrieve and manage all data
+                      </li>
+                      <li>Implemented Flask application with RESTful APIs to securely exchange data between frontend and backend</li>
+                      <li>Enabled seamless data workflows between the frontend interface and backend database through well-documented
+                      APIs</li>
+                    </ul> -->
+                    <div class="api-meta">
+                        <span>Austin, TX</span>
+                        <span>06/2023 - 08/2023</span>
+                    </div>
+                    <div class="api-stats">
+                        <span>Python</span>
+                        <span>Flask</span>
+                        <span>PostgreSQL</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="api-block">
+                <div class="api-category">SWE Intern</div>
+                <div class="api-content">
+                    <img src="assets/images/ifh.png" alt="Instagram" class="api-icon">
+                    <h3><a href="https://theifh.org">IFH</a></h3>
+                    <!-- <ul>
+                      <li>Developed a custom data visualization tool using HTML, CSS, JavaScript, and the D3 library</li>
+                      <li>Identified frequently occurring words within PubMed articles related to specific medical topics and their change
+                      over a specified time period</li>
+                    </ul> -->
+                    <div class="api-meta">
+                        <span>Phoenix, AZ</span>
+                        <span>12/2022 - 05/2023</span>
+                    </div>
+                    <div class="api-stats">
+                        <span>JavaScript</span>
+                        <span>HTML/CSS</span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  <div class="col-md-6 mb-3">
-    <div class="card">
-      <div class="card-header d-flex justify-content-between align-items-center">
-        <span class="badge bg-primary">Data</span>
-        <button class="btn btn-outline-secondary btn-sm">
-          <svg width="20" height="20" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
-            <path d="M8 2.748-.717-5.243C5.6-1.345 8 1.287 8 1.287S10.4-1.345 15.717-.243C12.286 2.385 8 6.036 8 6.036S3.714 2.385.283-.243C5.6-1.345 8 2.748 8 2.748zM8 1.287S5.6-1.345.283-.243C3.714 2.385 8 6.036 8 6.036S12.286 2.385 15.717-.243C10.4-1.345 8 1.287 8 1.287z"/>
-          </svg>
-        </button>
-      </div>
-      <div class="card-body d-flex flex-column">
-        <h5 class="card-title">Another Block</h5>
-        <p class="card-text">Introducing X API, a robust Twitter API designed to unlock valuable Twitter data...</p>
-        <a href="#" class="btn btn-primary mt-auto">Read More</a>
-      </div>
-      <div class="card-footer d-flex justify-content-between align-items-center">
-        <span>By Another Author</span>
-        <span>Updated 2 months ago</span>
-      </div>
+    <!-- Add more rows with three blocks each as needed -->
+     <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="api-block">
+                <div class="api-category">SWE Intern</div>
+                <div class="api-content">
+                    <img src="assets/images/ifh.png" alt="Amazon" class="api-icon">
+                    <h3><a href="https://theifh.org">IFH</a></h3>
+                    <div class="api-meta">
+                        <span>Phoenix, AZ</span>
+                        <span>06/2022-08/2022</span>
+                    </div>
+                    <div class="api-stats">
+                        <span>Python</span>
+                        <span>Selenium</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="api-block">
+                <div class="api-category">Research Intern</div>
+                <div class="api-content">
+                    <img src="assets/images/asu.png" alt="LinkedIn" class="api-icon">
+                    <h3><a href="https://faculty.engineering.asu.edu/zhuang/">ASU</a></h3>
+                    <div class="api-meta">
+                        <span>Phoenix, AZ</span>
+                        <span>08/2021 - 05/2022</span>
+                    </div>
+                    <div class="api-stats">
+                        <span>Java</span>
+                        <span>DFT Calculations</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="api-block">
+                <div class="api-category">Research Intern </div>
+                <div class="api-content">
+                    <img src="assets/images/barrow.png" alt="Instagram" class="api-icon">
+                    <h3><a href="https://www.barrowneuro.org/for-physicians-researchers/research/research-programs-labs/neurodegenerative-disease/mufson-laboratory/">BNI</a></h3>
+                    <div class="api-meta">
+                        <span>Phoenix, AZ</span>
+                        <span>01/2020 - 10/2022</span>
+                    </div>
+                    <div class="api-stats">
+                        <span>R</span>
+                        <span>DIANA</span>
+                        <span>Galaxy</span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div> -->
+</div>
