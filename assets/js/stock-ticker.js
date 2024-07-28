@@ -1,6 +1,6 @@
 // assets/js/stock-ticker.js
 
-const apiKey = 'S0TPX1N4SUD2TVLS';  // Replace with your Alpha Vantage API key
+const apiKey = '';  // Replace with your Alpha Vantage API key
 const symbols = ['AAPL', 'GOOGL', 'MSFT'];  // Add more stock symbols as needed
 
 async function fetchStockData(symbol) {

@@ -1,52 +1,26 @@
 /* assets/css/projects.css */
 
-.projects-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
+.project-categories {
     margin-top: 20px;
   }
   
-  .project-card {
-    background-color: #ffffff;
-    border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    padding: 16px;
-    transition: box-shadow 0.3s ease;
-  }
-  
-  .project-card:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  }
-  
-  .project-title {
-    font-size: 16px;
-    font-weight: 600;
-    margin-bottom: 8px;
-  }
-  
-  .project-title a {
-    color: #0366d6;
+.project-category {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    /* border-radius: 12px; */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #F8F9F5;
+    color: #000;
     text-decoration: none;
-  }
+    transition: transform 0.2s, box-shadow 0.2s;
+}
   
-  .project-title a:hover {
-    text-decoration: underline;
-  }
-  
-  .icon {
-    margin-right: 8px;
-  }
-  
-  .project-meta {
-    color: #586069;
-    font-size: 12px;
-  }
-  
-  .meta-item {
-    margin-right: 16px;
-  }
-  
-  .meta-item:last-child {
-    margin-right: 0;
-  }
+.project-category:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
