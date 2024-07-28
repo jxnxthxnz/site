@@ -8,9 +8,8 @@
     display: block;
     width: 100%;
     padding: 10px;
-    /* border-radius: 12px; */
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 50px;
     font-size: 1.2em;
     margin-bottom: 20px;
     text-align: center;
