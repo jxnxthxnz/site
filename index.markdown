@@ -15,7 +15,7 @@ title: Home
                 <div class="api-category">SWE Intern</div>
                 <div class="api-content">
                     <img src="assets/images/affinipay.png" alt="Affinipay" class="api-icon">
-                    <h3><a href="https://www.affinipay.com">AffiniPay</a></h3>
+                    <h3><a href="https://www.affinipay.com" target="_blank">AffiniPay</a></h3>
                     <div class="api-meta">
                         <span>San Diego, CA</span>
                         <span>06/2024 - Present</span>
@@ -33,7 +33,7 @@ title: Home
                 <div class="api-category">SWE Intern </div>
                 <div class="api-content">
                     <img src="assets/images/vertalo.png" alt="LinkedIn" class="api-icon">
-                    <h3><a href="https://www.vertalo.com">Vertalo</a></h3>
+                    <h3><a href="https://www.vertalo.com" target="_blank">Vertalo</a></h3>
                     <!-- <ul>
                       <li>Designed and built a backend system for a new proprietary testing tool using Postgres, SQL, Flask, and RESTful APIs</li>
                       <li>Developed a relational database schema and wrote optimized SQL queries to retrieve and manage all data
@@ -59,7 +59,7 @@ title: Home
                 <div class="api-category">SWE Intern</div>
                 <div class="api-content">
                     <img src="assets/images/ifh.png" alt="Instagram" class="api-icon">
-                    <h3><a href="https://theifh.org">IFH</a></h3>
+                    <h3><a href="https://theifh.org" target="_blank">IFH</a></h3>
                     <!-- <ul>
                       <li>Developed a custom data visualization tool using HTML, CSS, JavaScript, and the D3 library</li>
                       <li>Identified frequently occurring words within PubMed articles related to specific medical topics and their change
@@ -84,7 +84,7 @@ title: Home
                 <div class="api-category">SWE Intern</div>
                 <div class="api-content">
                     <img src="assets/images/ifh.png" alt="Amazon" class="api-icon">
-                    <h3><a href="https://theifh.org">IFH</a></h3>
+                    <h3><a href="https://theifh.org" target="_blank">IFH</a></h3>
                     <div class="api-meta">
                         <span>Phoenix, AZ</span>
                         <span>06/2022-08/2022</span>
@@ -101,7 +101,7 @@ title: Home
                 <div class="api-category">Research Intern</div>
                 <div class="api-content">
                     <img src="assets/images/asu.png" alt="LinkedIn" class="api-icon">
-                    <h3><a href="https://faculty.engineering.asu.edu/zhuang/">ASU</a></h3>
+                    <h3><a href="https://faculty.engineering.asu.edu/zhuang/" target="_blank">ASU</a></h3>
                     <div class="api-meta">
                         <span>Phoenix, AZ</span>
                         <span>08/2021 - 05/2022</span>
@@ -118,7 +118,7 @@ title: Home
                 <div class="api-category">Research Intern </div>
                 <div class="api-content">
                     <img src="assets/images/barrow.png" alt="Instagram" class="api-icon">
-                    <h3><a href="https://www.barrowneuro.org/for-physicians-researchers/research/research-programs-labs/neurodegenerative-disease/mufson-laboratory/">BNI</a></h3>
+                    <h3><a href="https://www.barrowneuro.org/for-physicians-researchers/research/research-programs-labs/neurodegenerative-disease/mufson-laboratory/" target="_blank">BNI</a></h3>
                     <div class="api-meta">
                         <span>Phoenix, AZ</span>
                         <span>01/2020 - 10/2022</span>
