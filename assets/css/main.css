@@ -16,7 +16,6 @@ body {
   color: #333;
 }
 
-/* New styles for API blocks */
 .api-blocks {
   margin-top: 40px;
 }
@@ -71,7 +70,7 @@ body {
 }
 
 .api-content h3 a:hover {
-  text-decoration: underline; /* This adds an underline on hover */
+  text-decoration: underline; 
 }
 
 .api-meta {

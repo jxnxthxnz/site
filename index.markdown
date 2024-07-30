@@ -34,14 +34,6 @@ title: Home
                 <div class="api-content">
                     <img src="assets/images/vertalo.png" alt="LinkedIn" class="api-icon">
                     <h3><a href="https://www.vertalo.com" target="_blank">Vertalo</a></h3>
-                    <!-- <ul>
-                      <li>Designed and built a backend system for a new proprietary testing tool using Postgres, SQL, Flask, and RESTful APIs</li>
-                      <li>Developed a relational database schema and wrote optimized SQL queries to retrieve and manage all data
-                      </li>
-                      <li>Implemented Flask application with RESTful APIs to securely exchange data between frontend and backend</li>
-                      <li>Enabled seamless data workflows between the frontend interface and backend database through well-documented
-                      APIs</li>
-                    </ul> -->
                     <div class="api-meta">
                         <span>Austin, TX</span>
                         <span>06/2023 - 08/2023</span>
@@ -60,11 +52,6 @@ title: Home
                 <div class="api-content">
                     <img src="assets/images/ifh.png" alt="Instagram" class="api-icon">
                     <h3><a href="https://theifh.org" target="_blank">IFH</a></h3>
-                    <!-- <ul>
-                      <li>Developed a custom data visualization tool using HTML, CSS, JavaScript, and the D3 library</li>
-                      <li>Identified frequently occurring words within PubMed articles related to specific medical topics and their change
-                      over a specified time period</li>
-                    </ul> -->
                     <div class="api-meta">
                         <span>Phoenix, AZ</span>
                         <span>12/2022 - 05/2023</span>
@@ -77,7 +64,7 @@ title: Home
             </div>
         </div>
     </div>
-    <!-- Add more rows with three blocks each as needed -->
+    <!-- Next row -->
      <div class="row">
         <div class="col-md-4 mb-4">
             <div class="api-block">
