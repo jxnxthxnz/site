@@ -70,13 +70,3 @@ permalink: /investing/
     </div>
   </div>
 </div>
-
-<div class="stock-row">
-  <div class="stock-item">
-    <div class="stock-block">
-      <a class="stock-link" href="https://www.aa.com/homePage.do" target="_blank">
-        <span class="stock-symbol">AAL</span>
-      </a>
-    </div>
-  </div>
-</div>
