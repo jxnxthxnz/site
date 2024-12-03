@@ -69,4 +69,11 @@ permalink: /investing/
       </a>
     </div>
   </div>
+  <div class="stock-item">
+    <div class="stock-block">
+      <a class="stock-link" href="https://www.clearwaterpaper.com/home/default.aspx" target="_blank">
+        <span class="stock-symbol">CLW</span>
+      </a>
+    </div>
+  </div>
 </div>
