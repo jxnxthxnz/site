@@ -50,8 +50,8 @@ permalink: /investing/
   </div>
   <div class="stock-item">
     <div class="stock-block">
-      <a class="stock-link" href="https://usnrg.com" target="_blank">
-        <span class="stock-symbol">USEG</span>
+      <a class="stock-link" href="https://www.nvidia.com/en-us/" target="_blank">
+        <span class="stock-symbol">NVDA</span>
       </a>
     </div>
   </div>
@@ -64,15 +64,15 @@ permalink: /investing/
   </div>
   <div class="stock-item">
     <div class="stock-block">
-      <a class="stock-link" href="https://www.aa.com/homePage.do" target="_blank">
-        <span class="stock-symbol">AAL</span>
+      <a class="stock-link" href="https://www.ielp.com" target="_blank">
+        <span class="stock-symbol">IEP</span>
       </a>
     </div>
   </div>
   <div class="stock-item">
     <div class="stock-block">
-      <a class="stock-link" href="https://www.clearwaterpaper.com/home/default.aspx" target="_blank">
-        <span class="stock-symbol">CLW</span>
+      <a class="stock-link" href="https://www.clevelandcliffs.com" target="_blank">
+        <span class="stock-symbol">CLF</span>
       </a>
     </div>
   </div>

@@ -1,6 +1,6 @@
 /* assets/css/main.css */
 body {
-  background-color: #F8F9F5;
+  background-color: #FFF;
 }
 
 .home-content {
@@ -8,7 +8,7 @@ body {
 }
 
 .custom-navbar {
-  background-color: #F8F9F5 !important;
+  background-color: #FFF !important;
 }
 
 .navbar-light .navbar-nav .nav-link,
@@ -21,9 +21,8 @@ body {
 }
 
 .api-block {
-  background-color: #F8F9F5;
+  background-color: #FFF;
   border: 1px solid #ddd;
-  border-radius: 5px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   padding: 20px;
@@ -49,8 +48,10 @@ body {
 }
 
 .api-block:nth-child(3n+1) .api-category, .api-stats span {
-  background-color: #EDEFE5;
+  background-color: #FFF;
   color: #000;
+  border: 1px solid #ddd;
+  border-radius: 8px;
 }
 
 .api-icon {
@@ -80,7 +81,7 @@ body {
 }
 
 .api-meta span {
-  margin-right: 10px;
+  display: block;
 }
 
 .api-stats {

@@ -9,11 +9,11 @@
     width: 100%;
     padding: 10px;
     border: 1px solid #ddd;
-    border-radius: 50px;
+    border-radius: 8px;
     font-size: 1.2em;
     margin-bottom: 20px;
     text-align: center;
-    background-color: #F8F9F5;
+    background-color: #FFF;
     color: #000;
     text-decoration: none;
     transition: transform 0.2s, box-shadow 0.2s;
