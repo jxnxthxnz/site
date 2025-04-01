@@ -18,7 +18,7 @@ title: Home
                     <h3><a href="https://www.affinipay.com" target="_blank">AffiniPay</a></h3>
                     <div class="api-meta">
                         <span>San Diego, CA</span>
-                        <span>06/2024 - Present</span>
+                        <span>06/2024 - 09/2024</span>
                     </div>
                     <div class="api-stats">
                         <span>Ruby on Rails</span>
